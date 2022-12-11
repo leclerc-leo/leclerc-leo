@@ -1,7 +1,9 @@
-Hi i'm Leo,    
+Hi i'm Léo LECLERC,    
 I live in France.  
 
-I'm a First Year Student in Enginnering School.  
-I mainly work with Javascript and Typescript through NodeJS.
+I'm a Third Year Student at Polytech Nantes.  
+I works with:
+  - Javascript, on personal projets as discord bots
+  - Python, on school projects
 
 If you need to contact me on Discord: Leo#4265
